@@ -1,0 +1,5 @@
+# Created at 2026-11-02T11:59:28.209
+Boot Manifest-JAR contains absolute paths in classpath 'D:\DOCUMENT\LEARNING\SCHOOL\subject\HocKi_5_2627\Network programing\NetworkProgaming-Lab\Lab7\SimpleHTTPBrowser\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

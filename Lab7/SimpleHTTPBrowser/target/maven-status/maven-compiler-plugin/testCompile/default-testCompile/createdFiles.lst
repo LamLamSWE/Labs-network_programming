@@ -1,0 +1,7 @@
+com\lam\httpbrowser\UrlParserTest.class
+com\lam\httpbrowser\HtmlAnalyzerTest.class
+com\lam\httpbrowser\HttpResponseParserTest.class
+com\lam\httpbrowser\BrowserFrameTest.class
+com\lam\httpbrowser\HttpRequestBuilderTest.class
+com\lam\httpbrowser\SocketConnectionTest.class
+com\lam\httpbrowser\HttpServiceIntegrationTest.class

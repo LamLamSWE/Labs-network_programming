@@ -1,0 +1,15 @@
+com\lam\mail\gui\MailClientGui.class
+com\lam\mail\MailServer.class
+com\lam\mail\gui\MailboxFrame.class
+com\lam\mail\gui\ViewEmailDialog.class
+com\lam\mail\gui\MailboxFrame$3.class
+com\lam\mail\gui\MailboxFrame$4.class
+com\lam\mail\gui\CreateAccountDialog.class
+com\lam\mail\gui\MailboxFrame$2.class
+com\lam\mail\gui\LoginFrame$1.class
+com\lam\mail\gui\MailboxFrame$1.class
+com\lam\mail\gui\LoginFrame.class
+com\lam\mail\gui\CreateAccountDialog$1.class
+com\lam\mail\MailClient.class
+com\lam\mail\gui\SendEmailDialog$1.class
+com\lam\mail\gui\SendEmailDialog.class
